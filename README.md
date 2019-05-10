@@ -5,6 +5,6 @@ Matlab code for analyzing activity data produced by the Drosophila Activity Moni
 % Snorlax enables batch processing Trikinetics DAM monitor files and organize data based
 % on genotypes.
 
-% 4/30/2019. Modified Zhihua's activity code and added
+% 4/30/2019. Modified Zhihua Liu's activity code and added funcitons for
 % visualization and quantification of specific windows of activity.  
   
